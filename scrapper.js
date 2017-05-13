@@ -41,7 +41,7 @@ let DOM = require('jsdom').JSDOM,
 
 api = plivo.RestAPI({
     authId:'MAODGWMDUXYWM4MWZIZJ',
-    authToken:'ZWExOWU3YTM1ZTZmODJkMjQ2OWMyMmZiNjVlNTYx'
+    authToken:'MGQyNjNjMDZlYmIzN2I1Y2IwNTc4YjUyMmYzZjI4'
 });
 
 $.extend(true, $, {
